@@ -9,5 +9,6 @@ SOURCES += \
     cube.cpp \
     hello.c \
     light.cpp \
+    limit.c \
     magicsquarecreator.cpp \
     pi.cpp
